@@ -1,11 +1,11 @@
 
 html {
-  background-color: blue;
+  background-color: lightBlue;
 }
 
 p {	
   background-color: lightBlue; 
-  color: lightBlue;
+  color: black;
 }
 
 img {
@@ -27,7 +27,7 @@ h3 {
 }
 
 h4 {
-  text-shadow: 2px -5px 3px lightBlue;  	
+  text-shadow: 2px -5px 3px blue;  	
 }
 
 
